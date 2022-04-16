@@ -4,17 +4,22 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="src/logo.png" alt="Logo" width="80" height="80">
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img src="https://user-images.githubusercontent.com/74655164/163681940-2134d09a-321f-4d2c-a227-cae8b21492f3.PNG" alt="Logo">
   </a>
 
   <h3 align="center">KAMKON - Reat APP with cocktails API </h3>
 
   <p align="center">
-    Zaliczenie projektowe z przedmiotu Zaawansowane technologie internetowe WSB Gdańsk 2021/2022
+    Zaliczenie projektowe z przedmiotu <b>Zaawansowane technologie internetowe</b> WSB Gdańsk 2021/2022
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://fabulous-strudel-47da68.netlify.app">View Demo</a>
   </p>
+  
+  <img src="https://user-images.githubusercontent.com/74655164/163682334-fb58cc04-6f5d-45a5-91ad-33fbe86c7d6c.PNG" alt="app1">
+  <br>
+  <img src="https://user-images.githubusercontent.com/74655164/163682379-b5548075-14ca-4217-a27e-a7129649143f.PNG" alt="app2">
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -41,10 +46,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
-[![Product Name Screen Shot][product-screenshot2]]
-
-The application was created for a design credit for a course. It is based on API www.thecocktaildb.com.
+The application was created for a college subject. It is based on API www.thecocktaildb.com.
 It was created by Michał Kamrowski and Paweł Koniszewski.
 
 ### Built With
@@ -83,9 +85,7 @@ To use our project and run it on your computer you must follow the steps below.
 ## Contact
 
 Michał Kamrowski - biszkopt133@gmail.com
+<br>
 Paweł Koniszewski - pawel.koniszewski@interia.pl
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-[product-screenshot]: images/app1.PNG
-[product-screenshot2]: images/app2.PNG
